@@ -1,0 +1,10 @@
+Put to the Appearance > Theme File Editor > function.php
+
+
+
+
+/**
+ * Force WordPress to use the Block Editor (Gutenberg)
+ * instead of the Classic Editor.
+ */
+add_filter('use_block_editor_for_post', '__return_true', 100);
