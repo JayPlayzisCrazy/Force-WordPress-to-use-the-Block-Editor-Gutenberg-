@@ -9,7 +9,7 @@ Paste this code into function.php
  */
 add_filter('use_block_editor_for_post', '__return_true', 100);
 
-
+After you paste the code you can go now.
 
 Note: 
 Please erase this code in file function.php after using this function.
