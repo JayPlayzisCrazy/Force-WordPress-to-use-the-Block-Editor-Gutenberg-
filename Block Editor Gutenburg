@@ -1,7 +1,7 @@
 Go to the Appearance > Theme File Editor > function.php
 
 
-
+Paste this code into function.php
 
 /**
  * Force WordPress to use the Block Editor (Gutenberg)
