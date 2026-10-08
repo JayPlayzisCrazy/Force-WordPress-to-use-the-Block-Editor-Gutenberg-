@@ -8,3 +8,8 @@ Paste this code into function.php
  * instead of the Classic Editor.
  */
 add_filter('use_block_editor_for_post', '__return_true', 100);
+
+
+
+Note: 
+Please erase this code in file function.php after using this function.
